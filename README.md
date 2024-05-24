@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nada Mohamed</h1>
 <h3 align="center">A passionate Full Stack developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadamgad" alt="nadamgad" /></a> </p>
-
 - 🔭 I’m currently working on **Guide Me project**
 
 - 🌱 I’m currently learning **DotNet Framework,Angular and CNN Model**
