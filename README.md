@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nada Mohamed</h1>
-<h3 align="center">A passionate Full Stack developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 - 🔭 I’m currently working on **Guide Me project**
 
-- 🌱 I’m currently learning **DotNet Framework,Angular and CNN Model**
+- 🌱 I’m currently learning **DotNet Framework, Angular CNN Model**
 
-- 💬 Ask me about **DotNet Framework,Angular and CNN Model**
+- 💬 Ask me about **DotNet Framework**
 
 - 📫 How to reach me **nadam226331@gmail.com**
 
