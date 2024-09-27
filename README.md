@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Guide Me project**
 
-- 🌱 I’m currently learning **DotNet Framework, Angular CNN Model**
+- 🌱 I’m currently learning **DotNet Framework, Angular and CNN Model**
 
 - 💬 Ask me about **DotNet Framework**
 
