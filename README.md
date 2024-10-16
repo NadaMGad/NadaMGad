@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **DotNet Framework**
 
-- 📫 How to reach me **nadam226331@gmail.com**
+- 📫 How to reach me **gadn6063@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
