@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nada Mohamed</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **Guide Me project**
+- 🔭 I’m currently working on **Yummy Coffee project**
 
-- 🌱 I’m currently learning **DotNet Framework, Angular and CNN Model**
+- 🌱 I’m currently learning **DotNet Framework **
 
 - 💬 Ask me about **DotNet Framework**
 
 - 📫 How to reach me **gadn6063@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
